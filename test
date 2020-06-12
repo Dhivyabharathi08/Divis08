@@ -1,4 +1,8 @@
 Ths is first line
 This is second line
+<<<<<<< HEAD
 This is 3rd line
+=======
+this is third line
+>>>>>>> dev
 
